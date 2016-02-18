@@ -1,4 +1,4 @@
-# Java-off-siteAassignment
+# Java-off-site Assignment
 
 Assignment:
 Algorithm
